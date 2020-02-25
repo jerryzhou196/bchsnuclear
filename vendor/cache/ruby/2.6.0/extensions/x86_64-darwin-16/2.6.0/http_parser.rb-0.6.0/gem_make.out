@@ -1,0 +1,16 @@
+current directory: /Users/newowner/Desktop/nuclear/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/newowner/.rvm/rubies/ruby-2.6.0/bin/ruby -I /Users/newowner/.rvm/rubies/ruby-2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200220-11335-kp0513.rb extconf.rb
+creating Makefile
+
+current directory: /Users/newowner/Desktop/nuclear/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/newowner/Desktop/nuclear/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/newowner/Desktop/nuclear/vendor/cache/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20200220-11335-16bbtke
