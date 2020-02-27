@@ -1,6 +1,5 @@
 ---
-name: Anna Thompson
-position: Developer
-image_path: "https://unsplash.it/600/503?image=1025&a=.png"
-twitter: CloudCannonApp
+name: Jerry Zhou
+position: Grade 11 student at BCHS
+image_path: "https://www.thermofisher.com/blog/identifying-threats/wp-content/uploads/sites/11/2019/12/istock-1092957826_nuclearpowerplant.jpg"
 ---
